@@ -7,6 +7,6 @@ The Second International Conference on Emerging Techniques in Computational Inte
 
 Proceedings of the First ICETCI held in 2021 are now live on IEEE Xplore.
 
-
-I participated in ICETCI 2022 held from August 25th to 27th, 2022. The URL of the paper published at that time is attached below.
+#
+I participated in ICETCI 2022 held from August 25th to 27th, 2022. The URL of the thesis presented at this conference is attached below.
 https://ieeexplore.ieee.org/abstract/document/9921370
